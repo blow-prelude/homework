@@ -1,4 +1,4 @@
-# Competition
+
 This is a first try to use github
-##Sunday
+## Sunday
 I am happy today
